@@ -1,5 +1,5 @@
-# dotwindows
-My configuration for ConEmu
+# dotpowershell
+My configuration for ConEmu & Powershell
 
 ## Instructions
 
